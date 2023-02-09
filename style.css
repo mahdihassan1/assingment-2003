@@ -130,6 +130,46 @@ button.btn-end {
 margin-right: 600px;
     padding: 7px;
     border-radius: 10px
-px
 ;
+}
+
+/* ----------------------------footer section style ------------------------------------------ */
+.footer {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding: 70px
+;
+}
+
+.footer-left{
+    width: 25%;
+}
+.footer-title {
+    font-size: 46px;
+    padding: 13px;
+
+}
+.footer-descreption {
+    font-size: 12px;
+    padding-bottom: 11px;
+}
+.contrac {
+    padding: 11px;
+}
+.end-title {
+    font-size: 32px;
+    padding: 24px;
+}
+input[type="email"],[type="button"] {
+    padding: 11px;
+    border-radius: 19px;
+}
+input#button {
+    background-color: red;
+    color: antiquewhite;
+    padding: 22px;
+    /* padding-top: 15px; */
+    margin-top: 22px;
+    font-size: 20px;
 }
