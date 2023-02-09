@@ -40,3 +40,96 @@
     color: white;
     border-radius: 10px;
 }
+
+ /* -----------------------------maine sectione style ----------------------------- */
+
+ .main-section-first {
+    background-image: url(images/person.png);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 150px;
+   
+   
+}
+h2.main-first-title {
+    font-size: 45px;
+    font-weight: 700;
+ padding-bottom: 22px
+;
+}
+.main-container {
+    width: 368px;
+}
+.main-first-descraption {
+    font-size: 16px;
+    font-weight: 300;
+    padding-bottom: 24px;
+    color: gray;
+}
+.items {
+    /* padding: 3px; */
+    font-size: 19px;
+    list-style: persian;
+    font-weight: 600;
+    color: burlywood;
+}
+.item {
+    padding: 6px;
+}
+
+
+/* ----------------------------------MY Plans section style -------------------------------------------------------- */
+
+.plane-title {
+    font-size: 111px;
+    text-align: center;
+    font-weight: 700;
+    padding-bottom:50px;
+}
+.my-plan {
+    display: flex;
+    justify-content: space-around;
+}
+.plans-sub-title {
+    font-size: 27px;
+    padding: 4px;
+    margin: 10px;
+}
+.plans-detail {
+    font-size: 15px;
+    padding: 24px;
+    color: gray;
+}
+
+
+/* ---------------------------------------------------main section end ------------------------------------------------------------ */
+
+.main-section-end {
+    background-image: url(images/watch.png),linear-gradient(rgb(0 0 0 / 30%),#f15b22a6);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    height: 291px;
+}
+.maine-end-title {
+    font-size: 53px;
+    padding: 60px;
+    color: aliceblue;
+    width: 657px;
+}
+button.btn-end {
+    font-size: 30px;
+    font-weight: 600;
+    background-color: aliceblue;
+    border: none;
+margin-right: 600px;
+    padding: 7px;
+    border-radius: 10px
+px
+;
+}
