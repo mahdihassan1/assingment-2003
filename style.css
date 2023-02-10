@@ -132,6 +132,18 @@ margin-right: 600px;
     border-radius: 10px
 ;
 }
+ /* -----------------------------bonus section ---------------------------------------------- */
+
+ .bonus-container {
+    font-size: 52px;
+    font-weight: 700;
+    color: grey;
+    text-align: center;
+    padding-bottom: 41px;
+}
+.blogs-video {
+    text-align: center;
+}
 
 /* ----------------------------footer section style ------------------------------------------ */
 .footer {
